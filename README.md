@@ -57,7 +57,6 @@ Click the Run button to execute the automation.
 UiPath will launch Notepad, type the text, save the file, and close the application automatically.
 ## UiPath WorkFlow:
 ![Screenshot 2024-09-27 183914](https://github.com/user-attachments/assets/429974bd-73e2-47d4-ac89-dce803b02bba)
-![Screenshot 2024-09-27 183914-1](https://github.com/user-attachments/assets/b09e2a89-17a3-40e3-9036-8b8e81f2a53a)
 ![Screenshot 2024-09-27 183958](https://github.com/user-attachments/assets/8ed3febb-a8af-4719-8210-c4e4c6fc91c3)
 ![Screenshot 2024-09-27 184314](https://github.com/user-attachments/assets/06fdac66-7e1e-4f40-ae69-0bca26ffd957)
 ![Screenshot 2024-09-27 190008](https://github.com/user-attachments/assets/c557e889-ec36-418a-9353-c19aa0f9ac70)
